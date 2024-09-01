@@ -1,0 +1,223 @@
+[
+  {
+    "model": "habits.habit",
+    "pk": 1,
+    "fields": {
+      "user": null,
+      "place": "парк",
+      "time": "2024-08-27T14:51:50.360Z",
+      "action": "пробежка",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 3,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:00:03",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 2,
+    "fields": {
+      "user": null,
+      "place": "бассейн",
+      "time": "2024-08-27T14:55:26.219Z",
+      "action": "плавание",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 3,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 3,
+    "fields": {
+      "user": null,
+      "place": "дом",
+      "time": "2024-08-27T15:41:04.812Z",
+      "action": "чтение",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 3,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-28T07:57:10.252Z",
+      "action": "растяжка",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 3,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": false
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 5,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-28T08:16:50.980Z",
+      "action": "приседания",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 3,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 6,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-28T13:57:06.583Z",
+      "action": "приседания",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 4,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 7,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-29T14:32:26.767Z",
+      "action": "отжимания",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 4,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 8,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-29T14:54:24.398Z",
+      "action": "выпить воды",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 4,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 9,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-29T15:00:03.171Z",
+      "action": "выпить воды",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 4,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 10,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-28T15:38:09.129Z",
+      "action": "выпить воды",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 4,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 11,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-28T15:38:29.307Z",
+      "action": "выпить воды",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 4,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 12,
+    "fields": {
+      "user": 1,
+      "place": "дом",
+      "time": "2024-08-28T15:39:05.591Z",
+      "action": "наклоны",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 4,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  },
+  {
+    "model": "habits.habit",
+    "pk": 13,
+    "fields": {
+      "user": 1,
+      "place": "парк",
+      "time": "2024-08-29T15:49:06Z",
+      "action": "прогулка",
+      "is_pleasant": false,
+      "related_habit": null,
+      "frequency_number": 4,
+      "frequency_unit": "days",
+      "reward": null,
+      "duration": "00:02:00",
+      "is_public": true
+    }
+  }
+]
